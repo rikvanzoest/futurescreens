@@ -4,3 +4,5 @@ Disney's House of the Future had a screen where you could select a name, and all
 # Same files deployed to your web server
 
 The single file will serve as both the controller and the display. Each device can act as either, this is chosen on load but can be changed in the settings.
+
+![Descriptive alt text](images/Screenshot from 2026-02-20 13-19-39.png)
